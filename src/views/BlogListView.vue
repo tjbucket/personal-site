@@ -1,5 +1,5 @@
 <template>
-  <div><p>This is the home page</p></div>
+  <div><p>List of blog posts</p></div>
 </template>
 
 <script>

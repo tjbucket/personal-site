@@ -1,5 +1,5 @@
 <template>
-  <div><p>This is the home page</p></div>
+  <div><p>Detailed project view</p></div>
 </template>
 
 <script>
