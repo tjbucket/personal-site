@@ -19,6 +19,7 @@
   background-color: #273469;
   height: 100vh;
 }
+
 nav {
   background-color: #1e2749;
   justify-content: space-around;
