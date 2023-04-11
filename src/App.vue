@@ -24,7 +24,7 @@ nav {
   background-color: #1e2749;
   justify-content: space-around;
   align-items: flex-end;
-  position: absolute;
+  position: fixed;
   height: 10vh;
   width: 100vw;
   display: flex;
